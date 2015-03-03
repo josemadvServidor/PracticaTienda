@@ -1,0 +1,60 @@
+@CHARSET "UTF-8";
+
+.fondoNaranja{
+	background-color: orange;
+	font-weight: bold;
+}
+
+.cuerpo{
+	background-color: #FFEFD5;
+	 font-size: 90%;
+	  font-family: arial;
+}
+
+.rojo{
+	color: red;
+}
+
+.tablas{
+	background-color: #CCFFCC;
+	font-size:16px;
+}
+
+table, th, td {
+    border: 1px solid black;
+    border-collapse: separate;
+  border-spacing:  0px;
+}
+
+.submit{
+  background: #ffffff;
+  background-image: -webkit-linear-gradient(top, #ffffff, #787278);
+  background-image: -moz-linear-gradient(top, #ffffff, #787278);
+  background-image: -ms-linear-gradient(top, #ffffff, #787278);
+  background-image: -o-linear-gradient(top, #ffffff, #787278);
+  background-image: linear-gradient(to bottom, #ffffff, #787278);
+  -webkit-border-radius: 10;
+  -moz-border-radius: 10;
+  border-radius: 10px;
+  font-family: Georgia;
+  color: #000000;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  border: solid #050005 1px;
+  text-decoration: none;
+}
+
+a {
+
+color: #0000ff;
+
+font-family: Arial;
+
+font-size: 12px;
+
+font-weight: bold;
+
+
+
+}
+

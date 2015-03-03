@@ -1,0 +1,18 @@
+<categorias>
+<categoria>
+<id>5</id>
+<cod>5</cod>
+<nombre>cat5</nombre>
+<descripcion>esta es la categoria 5</descripcion>
+<anuncio>categoria 5</anuncio>
+<oculto>0</oculto>
+</categoria>
+<categoria>
+<id>6</id>
+<cod>6</cod>
+<nombre>cat6</nombre>
+<descripcion>esta es la categoria 6</descripcion>
+<anuncio>categoria 6</anuncio>
+<oculto>0</oculto>
+</categoria>
+</categorias>

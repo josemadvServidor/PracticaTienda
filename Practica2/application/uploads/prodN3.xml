@@ -1,0 +1,34 @@
+<productos>
+<producto>
+<cod>16</cod>
+<nombre>producto16</nombre>
+<precio>0,99</precio>
+<descuento>5</descuento>
+<imagen>aqui la imagen</imagen>
+<iva>0</iva>
+<descripcion>este p 16</descripcion>
+<anuncio>p16</anuncio>
+<stock>6</stock>
+<destacado>1</destacado>
+<fechaI>null</fechaI>
+<fechaF>null</fechaF>
+<oculto>0</oculto>
+<categoriaId>4</categoriaId>
+</producto>
+<producto>
+<cod>17</cod>
+<nombre>producto17</nombre>
+<precio>1,99</precio>
+<descuento>10</descuento>
+<imagen>aqui la imagen</imagen>
+<iva>5</iva>
+<descripcion>este p 17</descripcion>
+<anuncio>p17</anuncio>
+<stock>4</stock>
+<destacado>1</destacado>
+<fechaI>null</fechaI>
+<fechaF>null</fechaF>
+<oculto>0</oculto>
+<categoriaId>4</categoriaId>
+</producto>
+</productos>
